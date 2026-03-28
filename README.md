@@ -1,2 +1,2 @@
 # my-codes
-My first coding projrct
+My first coding project
